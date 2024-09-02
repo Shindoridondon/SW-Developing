@@ -25,7 +25,7 @@ public class Stream2 {
                 System.out.println("이름 : " + member.getName() + "\t"
                                              + member.getGender() + "\t"
                                              + member.getAge()); 
-
+//test
 
             }
     }
