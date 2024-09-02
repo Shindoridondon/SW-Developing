@@ -26,7 +26,7 @@ public class Stream2 {
                                              + member.getGender() + "\t"
                                              + member.getAge()); 
 //test
-
+//test2
             }
     }
 }
