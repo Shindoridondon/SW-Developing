@@ -3,6 +3,7 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "c:\\MySource\\External_lib\\mariadb-java-client-3.1.3.jar"
+        "c:\\MySource\\External_lib\\mariadb-java-client-3.1.3.jar",
+        "d:\\학습관리\\프로그램\\JAR\\mariadb-java-client-3.1.2.jar"
     ]
 }

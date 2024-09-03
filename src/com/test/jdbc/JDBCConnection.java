@@ -1,4 +1,4 @@
-package com.test.oop;
+package com.test.jdbc;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -7,6 +7,8 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
+
+import com.test.oop.Member;
 
 public class JDBCConnection {
 

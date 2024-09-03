@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FileExam01",
+            "request": "launch",
+            "mainClass": "com.test.jdbc.FileExam01",
+            "projectName": "JavaStudy_283a9a57"
+        },
+        {
+            "type": "java",
+            "name": "StreamExam01",
+            "request": "launch",
+            "mainClass": "com.test.stream.StreamExam01",
+            "projectName": "JavaStudy_283a9a57"
+        },
+        {
+            "type": "java",
+            "name": "Stream2",
+            "request": "launch",
+            "mainClass": "com.test.stream.Stream2",
+            "projectName": "JavaStudy_283a9a57"
+        },
+        {
+            "type": "java",
+            "name": "LambdaExam",
+            "request": "launch",
+            "mainClass": "com.test.stream.LambdaExam",
+            "projectName": "JavaStudy_283a9a57"
+        },
+        {
+            "type": "java",
+            "name": "JDBCConnection",
+            "request": "launch",
+            "mainClass": "com.test.jdbc.JDBCConnection",
+            "projectName": "JavaStudy_283a9a57"
+        },
+        {
+            "type": "java",
             "name": "JDBCConnection",
             "request": "launch",
             "mainClass": "com.test.oop.JDBCConnection",

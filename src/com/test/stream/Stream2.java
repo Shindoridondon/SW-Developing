@@ -1,7 +1,9 @@
-package com.test.oop;
+package com.test.stream;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import com.test.oop.Member;
 
 public class Stream2 {
 
